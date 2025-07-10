@@ -18,9 +18,9 @@
 
 ### 🧠 About Me
 
-- 🚀 Currently building **Eco-Farm-Assist** – an AI-powered platform for personalized crop & farming advice 🌾
+- 🚀 Currently building **SmartStockX** – an AI-powered inventory optimization system 📦
 - 🤝 Passionate about combining **software**, **robotics**, and **AI** to build scalable real-world solutions
-- 🎯 Focused on full-stack development creating real-world impact
+- 🎯 Focused on software development creating real-world impact
 - 🧩 Practicing DSA on **Leetcode** & competing on **Codeforces** and **CodeChef** 
 - 📍 India | 🎓 Pre-final year undergrad pursuing B.Tech in Electronics & Instrumentation at **NIT Rourkela**
 
@@ -28,9 +28,9 @@
 
 ### 💬 Let’s connect
 
-- 🔭 I’m currently working on: `Eco-Farm-Assist`, `OrganLink`
+- 🔭 I’m currently working on: `SmartStockX`, `Eco-Farm Assist`
 - 🤝 I’m looking to collaborate on: `Hackathons`, `ML-powered web apps`, `Robotics + Automation`
-- 🧠 I’m currently learning: `Machine Learning`
+- 🧠 I’m currently learning: `Machine Learning`, `Django`, `GoLang`
 - ✨ Ask me about: `Software Dev`, `AI/ML`, `Robotics`
 - ⚡ Fun fact: I talk to my bots like they’re teammates... and they *usually* obey 😉
 
